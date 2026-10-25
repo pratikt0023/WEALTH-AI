@@ -2,6 +2,10 @@
 
 A polished full-stack AI personal finance dashboard built with React + TypeScript + Tailwind CSS + Recharts and a Python Flask backend with Gemini integration.
 
+Demo Link : https://courageous-hamster-37b54e.netlify.app
+
+Full Document : 
+
 ## Features
 
 - Landing page with Demo Mode
