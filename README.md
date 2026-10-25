@@ -4,7 +4,7 @@ A polished full-stack AI personal finance dashboard built with React + TypeScrip
 
 Demo Link : https://courageous-hamster-37b54e.netlify.app
 
-Full Document : https://1drv.ms/w/c/A4AA4BCFAE29EAB4/IQCd6Ntg3NXCQ4XTNBLtpkwbAU-IRanemXggMd4-jMn72ew?e=DTreLx
+Full Document : https://1drv.ms/w/c/A4AA4BCFAE29EAB4/IQBTHMhAlo61QK68JZiS9xcRAdzZOK-swv12Z-Z3kcVwGX4?e=bfQkaf
 
 ## Features
 
